@@ -3,3 +3,4 @@ ls = display the contents of a directory
 cd = change current working directory to the root
 ls -l = display current working directory in long format
 ls -l = display current working directory i contents including hidden files long format
+ls - na = display current directory content in long format,user and group ID numerically, hidden files
