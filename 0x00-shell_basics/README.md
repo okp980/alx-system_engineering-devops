@@ -13,3 +13,4 @@ ls -al . .. /boot = list all files and folders in current and parent working dir
 file tmp/iamafile = shows the type of file name iamafile
 ln -s /bin/ls __ls__ = symbolic link
 cp -nu *.html .. = copy only updated to parent
+mv [[:upper:]]* /tmp/u = moove all files beginning with an uppercase
