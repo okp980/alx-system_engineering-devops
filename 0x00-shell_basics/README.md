@@ -12,3 +12,4 @@ cd - = changes current directory to previous directory
 ls -al . .. /boot = list all files and folders in current and parent working directory
 file tmp/iamafile = shows the type of file name iamafile
 ln -s /bin/ls __ls__ = symbolic link
+cp -nu *.html .. = copy only updated to parent
