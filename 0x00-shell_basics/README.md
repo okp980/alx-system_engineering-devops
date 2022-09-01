@@ -10,3 +10,4 @@ rm = deletes a file
 rm -r = deletes a directory
 cd - = changes current directory to previous directory
 ls -al . .. /boot = list all files and folders in current and parent working directory
+file tmp/iamafile = shows the type of file name iamafile
