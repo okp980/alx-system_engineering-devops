@@ -8,3 +8,4 @@ mkdir tmp/my_first_directory = make a directory in tmp directory
 mv = moves a file
 rm = deletes a file
 rm -r = deletes a directory
+cd - = changes current directory to previous directory
