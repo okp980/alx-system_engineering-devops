@@ -15,3 +15,4 @@ ln -s /bin/ls __ls__ = symbolic link
 cp -nu *.html .. = copy only updated to parent
 mv [[:upper:]]* /tmp/u = moove all files beginning with an uppercase
 rm *~ = delete any file that end with the character ~
+mkdir = create a dir
