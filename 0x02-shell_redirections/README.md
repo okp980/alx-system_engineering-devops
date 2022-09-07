@@ -1,6 +1,7 @@
-0-hello_world prints 'Hello World' sends its result to the standard output
+0-hello World' sends its result to the standard output
 Confused smiley prints a confused smiley
 2-hellofile prints the content of a file
 3-twofiles prints the contents of 2 files
 4-lastlines prints the last 10 lines in a file
-
+5-firstlines prints the first 10 lines
+6-third_line displays the third line of the file iacta
