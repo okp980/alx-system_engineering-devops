@@ -2,4 +2,5 @@
 Confused smiley prints a confused smiley
 2-hellofile prints the content of a file
 3-twofiles prints the contents of 2 files
+4-lastlines prints the last 10 lines in a file
 
