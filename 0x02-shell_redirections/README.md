@@ -7,3 +7,4 @@ Confused smiley prints a confused smiley
 6-third_line displays the third line of the file iacta
 7-file creates a file with content in it
 8-cwd_state writes the result of ls -la in to a file
+9-duplicate_last_line duplicates the last line of the file iacta
